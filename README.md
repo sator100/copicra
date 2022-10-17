@@ -2,7 +2,7 @@
 
 # INTEGRANTES Y ROLES
 
-# Desarrollador: Sebastián Velásquez 
+# Desarrollador: Sebastián Velásquez.
 
-# Scrum Master: Liliana Paola Rozo Martínez
+# Scrum Master: Liliana Paola Rozo Martínez.
 
